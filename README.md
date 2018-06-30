@@ -1,6 +1,7 @@
 # What is this.
 
 This is the Bootstrap3 based theme for Hugo.
+forked from dim0627.
 
 [Hugo :: A fast and modern static website engine](https://gohugo.io/)
 
@@ -28,7 +29,7 @@ This is the Bootstrap3 based theme for Hugo.
 
 ```
 $ cd themes
-$ git clone https://github.com/dim0627/hugo_theme_beg.git
+$ git clone https://github.com/cwangtf/hugo_theme_beg.git
 ```
 
 [Hugo \- Installing Hugo](http://gohugo.io/overview/installing/)
